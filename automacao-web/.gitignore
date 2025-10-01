@@ -1,0 +1,45 @@
+# Arquivos de log
+logs/
+*.log
+
+# Relatórios gerados
+reports/
+*.xlsx
+*.json
+
+# Screenshots
+screenshots/
+*.png
+
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+.env
+.env.local
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Selenium temporários
+selenium-*

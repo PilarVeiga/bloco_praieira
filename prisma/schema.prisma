@@ -1,0 +1,83 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  password  String
+  role      Role     @default(MEMBER)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("users")
+}
+
+model Member {
+  id          String     @id @default(cuid())
+  name        String
+  role        String?
+  instrument  Instrument
+  isActive    Boolean    @default(true)
+  joinedAt    DateTime   @default(now())
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+
+  @@map("members")
+}
+
+model Donation {
+  id          String   @id @default(cuid())
+  amount      Float
+  donorName   String?
+  donorEmail  String?
+  pixKey      String
+  status      DonationStatus @default(PENDING)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("donations")
+}
+
+model Event {
+  id          String   @id @default(cuid())
+  title       String
+  description String?
+  location    String
+  date        DateTime
+  isPublic    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("events")
+}
+
+enum Role {
+  ADMIN
+  MEMBER
+}
+
+enum Instrument {
+  MESTRES
+  HARMONIA
+  CAIXA
+  REPINIQUE
+  SURDO
+  XEQUERE_GANZA
+  TAMBORIM
+}
+
+enum DonationStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
