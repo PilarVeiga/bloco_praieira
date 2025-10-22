@@ -1,16 +1,34 @@
 # 🦀 Bloco Praieira - Site Oficial
 
-Site oficial do **Bloco Praieira**, bloco de carnaval urbano de rua de Santo André, ABC Paulista. Fundado em 2021 no Bar "A Praieira", o bloco promove a cultura do carnaval de rua com aproximadamente 30 integrantes.
+Site oficial do **Bloco Praieira**, bloco de carnaval de Santo André, ABC Paulista. Fundado em 2021 pelos irmãos Charles e Vinícius Guichabeira no bar "A Praieira", tocamos maracatu, ijexá, samba e outros ritmos brasileiros.
 
 ## 🎭 Sobre o Bloco
 
 - **Nome**: Bloco Praieira
 - **Fundação**: 2021
+- **Fundadores**: Charles Guichabeira e Vinícius Guichabeira
 - **Local de origem**: Bar "A Praieira", Santo André
 - **Região**: ABC Paulista, São Paulo
-- **Estilo**: Carnaval de rua (não frevo)
+- **Ritmos**: Maracatu, Ijexá, Samba e outros
 - **Símbolo**: Caranguejo 🦀
-- **Membros**: ~30 integrantes organizados por naipes instrumentais
+- **Membros**: ~20 integrantes
+- **Eventos**: Carnaval, bares e eventos culturais
+
+## 🎵 Instrumentação
+
+### Harmonia
+- Vozes
+- Violão
+- Baixo
+
+### Percussão
+- Caixa
+- Surdo
+- Xequerê
+- Ganzá
+- Agogô
+- Repinique
+- Tamborim
 
 ## 🚀 Tecnologias
 

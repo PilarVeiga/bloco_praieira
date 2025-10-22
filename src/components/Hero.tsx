@@ -35,16 +35,16 @@ export default function Hero() {
           <div className="glassmorphism p-6">
             <h3 className="text-lg font-semibold mb-3 text-neon-green neon-text">Nossa História</h3>
             <p className="text-gray-300 text-sm">
-              Fundado em 2021 no Bar "A Praieira", somos um bloco de carnaval urbano de rua 
-              que leva alegria e música pelas ruas do ABC Paulista.
+              Fundado em 2021 pelos irmãos Charles e Vinícius Guichabeira no bar "A Praieira", 
+              em Santo André. Somos um bloco de carnaval que leva alegria e música pelas ruas do ABC Paulista.
             </p>
           </div>
 
           <div className="glassmorphism p-6">
-            <h3 className="text-lg font-semibold mb-3 text-neon-pink neon-text">Nossa Missão</h3>
+            <h3 className="text-lg font-semibold mb-3 text-neon-pink neon-text">Nosso Ritmo</h3>
             <p className="text-gray-300 text-sm">
-              Promover a cultura do carnaval de rua com aproximadamente 30 integrantes, 
-              levando música e festa para bares, ruas e eventos da região.
+              Tocamos maracatu, ijexá, samba e outros ritmos brasileiros com aproximadamente 20 integrantes, 
+              levando música e festa para carnaval, bares e eventos da região.
             </p>
           </div>
         </div>

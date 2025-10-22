@@ -16,78 +16,77 @@ interface InstrumentSection {
 
 const instrumentSections: InstrumentSection[] = [
   {
-    name: 'Mestres',
-    description: 'Liderança musical e coordenação do bloco',
+    name: 'Fundadores',
+    description: 'Criadores do Bloco Praieira',
     members: [
-      { name: 'João Silva', role: 'Mestre Principal' },
-      { name: 'Maria Santos', role: 'Coordenação Musical' }
+      { name: 'Charles Guichabeira', role: 'Cofundador' },
+      { name: 'Vinícius Guichabeira', role: 'Cofundador' }
     ],
     color: 'neon-green'
   },
   {
     name: 'Harmonia',
-    description: 'Base melódica do bloco',
+    description: 'Vozes, violão e baixo - Base melódica do bloco',
     members: [
-      { name: 'Carlos Oliveira' },
-      { name: 'Ana Costa' },
-      { name: 'Pedro Lima' },
-      { name: 'Julia Ferreira' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-pink'
   },
   {
     name: 'Caixa',
-    description: 'Percussão de base e marcação',
+    description: 'Percussão de base e marcação do ritmo',
     members: [
-      { name: 'Roberto Silva' },
-      { name: 'Fernanda Alves' },
-      { name: 'Bruno Santos' },
-      { name: 'Camila Souza' },
-      { name: 'Diego Pereira' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-blue'
   },
   {
-    name: 'Repinique',
-    description: 'Percussão de chamada e condução',
+    name: 'Surdo',
+    description: 'Percussão grave que dá a base rítmica',
     members: [
-      { name: 'Lucas Martins' },
-      { name: 'Isabela Cruz' },
-      { name: 'Rafael Gomes' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-green'
   },
   {
-    name: 'Surdo',
-    description: 'Percussão grave e base rítmica',
+    name: 'Xequerê',
+    description: 'Instrumento de percussão afro-brasileiro',
     members: [
-      { name: 'Anderson Rocha' },
-      { name: 'Patrícia Lima' },
-      { name: 'Felipe Castro' },
-      { name: 'Larissa Monteiro' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-pink'
   },
   {
-    name: 'Xequerê & Ganzá',
-    description: 'Percussão complementar e texturas',
+    name: 'Ganzá',
+    description: 'Percussão de chocalho para marcação',
     members: [
-      { name: 'Marcos Ribeiro' },
-      { name: 'Beatriz Cardoso' },
-      { name: 'Thiago Barbosa' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-blue'
   },
   {
-    name: 'Tamborim',
-    description: 'Percussão aguda e detalhes rítmicos',
+    name: 'Agogô',
+    description: 'Instrumento de percussão metálico',
     members: [
-      { name: 'Gabriel Melo' },
-      { name: 'Sofia Nascimento' },
-      { name: 'Daniel Freitas' },
-      { name: 'Marina Silva' }
+      { name: 'Aguardando cadastro' }
     ],
     color: 'neon-green'
+  },
+  {
+    name: 'Repinique',
+    description: 'Percussão de chamada e variações',
+    members: [
+      { name: 'Aguardando cadastro' }
+    ],
+    color: 'neon-pink'
+  },
+  {
+    name: 'Tamborim',
+    description: 'Percussão aguda com detalhes rítmicos',
+    members: [
+      { name: 'Aguardando cadastro' }
+    ],
+    color: 'neon-blue'
   }
 ]
 
