@@ -21,9 +21,20 @@
 - **País**: Brasil
 
 ### História
-O Bloco Praieira foi fundado em 2021 pelos irmãos Charles Guichabeira e Vinícius Guichabeira no icônico bar "A Praieira", localizado em Santo André, no ABC Paulista. Desde sua criação, o bloco se dedica a promover a cultura do carnaval de rua, levando alegria, música e ritmos brasileiros autênticos para as ruas, bares e eventos da região do ABC.
+O Bloco Praieira nasceu do sonho dos irmãos Charles e Vinícius Guichabeira de compartilhar a música com a comunidade. Inicialmente uma oficina de percussão, o projeto colocou os instrumentos dos irmãos à disposição de todas as pessoas que desejam vivenciar a prática musical coletiva.
+
+Este sonho foi acolhido e ganhou casa na Praieira, um espaço cultural que cedeu seu espaço para o início do projeto. Em agradecimento e homenagem a essa parceria fundamental, o grupo adotou o nome Bloco Praieira. O próprio espaço, por sua vez, homenageia o legado do artista Chico Science, batizando-se em referência a uma de suas canções, o que imerge o bloco na energia inventiva da cultura pernambucana.
+
+Assim, o Bloco Praieira consolida-se não apenas como um grupo musical, mas como um projeto de incentivo à cultura popular, formando novas plateias e criando pontes entre o ritmo, a comunidade e a rica produção artística brasileira.
 
 ### Proposta Artística - Bloco do Amor
+
+#### Essência e Missão
+A essência do Bloco Praieira é proporcionar uma experiência única e acessível. Acreditamos que a música é uma linguagem universal, capaz de unir pessoas de diferentes habilidades, histórias e origens. Nosso projeto é um convite para que qualquer pessoa, mesmo sem experiência musical prévia, possa vivenciar a energia de fazer parte de um grupo de percussão.
+
+Oferecemos uma jornada sonora que transcende o comum. Através de tamborins, caixas, surdos, repiniques, agogôs, xequerês e ganzás, cada participante descobre não apenas o som de um instrumento, mas seu significado e sua história. Ao final da experiência, todos se percebem como partes integrantes de um todo – interligado, harmonioso e alegre.
+
+#### Proposta Musical
 O Bloco Praieira – Bloco do Amor propõe uma celebração da música brasileira, referenciando as músicas com influências africanas e artistas consagrados que fazem parte do nosso patrimônio como **Gilberto Gil**, **Luiz Gonzaga** e **Dona Ivone Lara**, por meio da percussão coletiva. 
 
 Também traz artistas atuais no repertório como **Luedji Luna** e **Cordel do Fogo Encantado**. A apresentação valoriza a ancestralidade presente nos ritmos populares brasileiros, como **Axé**, **Ijexá**, **Samba** e **Maracatu**. 
@@ -292,6 +303,48 @@ O Bloco Praieira toca uma rica variedade de ritmos brasileiros:
 
 ## 🎪 EVENTOS E APRESENTAÇÕES
 
+### Projetos do Bloco
+
+#### 1. Arraial do Bloco
+Com a energia contagiante da batucada e a alegria típica dos ritmos nordestinos, como **baião**, **arrasta-pé**, **xote** e **maracatu**, este projeto apresenta uma mistura animada e envolvente que convida o público a dançar e celebrar as tradições juninas.
+
+#### 2. Carnaval do Bloco
+Iniciado em **2022**, este espetáculo original mergulha na atmosfera da maior festa popular brasileira. A fusão dos instrumentos de percussão com a levada do contrabaixo, os riffs de guitarra e os vocais cria uma performance única, que celebra a diversidade e a força do Carnaval.
+
+---
+
+### Por Onde Já Batucamos
+
+#### Eventos Culturais e Festivais
+- **Virada Cultural de São Bernardo**
+- **Praças da Cultura** - Carnaval de São Paulo
+- **Carnaval Parque Chico Mendes**
+- **Carnaval Parque Max Feffer** - Suzano
+- **Carnaval Teatro Carlos Gomes** - Santo André
+- **Avenida Paulista**
+- **Parque Municipal de Barueri**
+- **Parque Celso Daniel** - Santo André
+
+#### Espaços Culturais
+- **A Praieira** - Espaço Cultural (nossa casa!)
+- **Casa de Cultura São Rafael**
+- **Dumingaz** - Espaço Cultural
+- **Ioiô Bar** - Espaço Cultural
+- **Komb Bar** - Espaço Cultural
+- **Giramundo**
+
+#### Bares e Espaços Tradicionais
+- **Toca da Boemia** - Espaço tradicional de Samba
+- **Mess Burguer**
+- **Mansão B&D**
+
+#### Escolas de Samba e Organizações
+- **GRCES Pantera Negra**
+- **Projeto Meninos e Meninas de Rua**
+- **Associação Projeto Outro Papo**
+
+---
+
 ### Tipos de Eventos
 
 #### 1. Carnaval de Rua
@@ -443,24 +496,31 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 ## 🎭 CARACTERÍSTICAS ÚNICAS DO BLOCO
 
 ### Diferenciais
-1. **Origem Autêntica**: Fundado em bar tradicional
-2. **Irmãos Fundadores**: História familiar
-- **Ritmos Diversos**: Axé, Ijexá, Samba, Maracatu
-4. **ABC Paulista**: Forte identidade regional
-5. **Tamanho Intimista**: ~20 integrantes (não é megabloco)
-6. **Versatilidade**: Carnaval, bares e eventos diversos
-7. **Bloco do Amor**: Celebração da música afro-brasileira
-8. **Repertório Rico**: De Luiz Gonzaga a Luedji Luna
-9. **Representatividade**: Valorização da cultura e identidade negra
-10. **Classificação Livre**: Acessível para todas as idades
+1. **Origem Autêntica**: Nascido de uma oficina de percussão comunitária
+2. **Irmãos Fundadores**: Charles e Vinícius Guichabeira compartilhando seus instrumentos
+3. **Espaço Cultural A Praieira**: Homenagem ao espaço que acolheu o projeto
+4. **Legado Chico Science**: Conexão com a energia inventiva da cultura pernambucana
+5. **Inclusão Musical**: Aberto a pessoas sem experiência musical prévia
+6. **Ritmos Diversos**: Axé, Ijexá, Samba, Maracatu, Baião, Arrasta-pé, Xote
+7. **ABC Paulista**: Forte identidade regional com alcance metropolitano
+8. **Tamanho Intimista**: ~22 integrantes (não é megabloco)
+9. **Dois Projetos**: Arraial do Bloco (junino) e Carnaval do Bloco (desde 2022)
+10. **Bloco do Amor**: Celebração da música afro-brasileira
+11. **Repertório Rico**: De Luiz Gonzaga a Luedji Luna
+12. **Representatividade**: Valorização da cultura e identidade negra
+13. **Classificação Livre**: Acessível para todas as idades
+14. **Histórico Amplo**: Apresentações em 20+ locais diferentes (Virada Cultural, Avenida Paulista, parques, espaços culturais)
 
 ### Proposta
-- Carnaval acessível e autêntico
-- Música de qualidade com raízes afro-brasileiras
-- Integração da comunidade local
+- Carnaval e festa junina acessíveis e autênticos
+- Oficina de percussão comunitária aberta a todos
+- Música de qualidade com raízes afro-brasileiras e nordestinas
+- Integração da comunidade local através da prática musical coletiva
 - Festa democrática e inclusiva
 - Celebração da ancestralidade e identidade cultural
-- Percussão coletiva como arte e memória
+- Percussão coletiva como arte, memória e formação de novas plateias
+- Homenagem ao legado de Chico Science e à cultura pernambucana
+- Ponte entre o ritmo, a comunidade e a rica produção artística brasileira
 
 ---
 
@@ -574,40 +634,48 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 ## 📝 CONTEÚDO SUGERIDO
 
 ### Frases de Impacto
+- "Do sonho de compartilhar música à realidade da batucada"
+- "Nascido de uma oficina de percussão, o Bloco Praieira é música para todos"
 - "Levando alegria e ritmo afro-brasileiro pelas ruas do ABC"
-- "Fundado no coração de Santo André"
-- "Axé, Ijexá, Samba, Maracatu e muita festa"
-- "Do bar A Praieira para as ruas do ABC Paulista"
-- "Mais de 20 integrantes, uma só paixão: o carnaval"
+- "Homenageando A Praieira e o legado de Chico Science"
+- "Axé, Ijexá, Samba, Maracatu, Baião, Xote - a diversidade dos ritmos brasileiros"
+- "Mais de 22 integrantes, uma só paixão: a música coletiva"
 - "Bloco do Amor - Arte, memória e identidade"
-- "Celebrando nossa herança cultural com percussão coletiva"
+- "Da Virada Cultural à Avenida Paulista: batucando por São Paulo"
+- "Arraial do Bloco e Carnaval do Bloco: dois projetos, muita alegria"
+- "Música sem fronteiras: aberto a todos, com ou sem experiência"
 - "De Gilberto Gil a Luedji Luna: música brasileira com alma africana"
+- "Formando novas plateias e criando pontes entre ritmo e comunidade"
 
 ### Descrições Curtas
-- **Hero**: "Bloco de carnaval de Santo André que celebra a música afro-brasileira através de Axé, Ijexá, Samba e Maracatu desde 2021"
-- **Sobre**: "Fundado pelos irmãos Charles e Vinícius Guichabeira, levamos cultura, ancestralidade e alegria para carnaval, bares e eventos"
-- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua e a representatividade negra no ABC Paulista"
-- **Bloco do Amor**: "Tocamos nossa herança cultural com arte, memória e identidade, valorizando a ancestralidade presente nos ritmos populares brasileiros"
+- **Hero**: "Nascido de uma oficina de percussão dos irmãos Charles e Vinícius Guichabeira, o Bloco Praieira celebra a música afro-brasileira através de Axé, Ijexá, Samba, Maracatu e ritmos nordestinos"
+- **Sobre**: "Consolidado como projeto de incentivo à cultura popular, levamos música, ancestralidade e alegria para carnaval, festas juninas e eventos. Uma jornada sonora que une pessoas de todas as origens"
+- **História**: "Do sonho de compartilhar música à casa n'A Praieira - um espaço cultural que homenageia Chico Science. Nossa essência é proporcionar uma experiência acessível onde cada pessoa descobre o som e a história dos instrumentos"
+- **Projetos**: "Arraial do Bloco traz a energia dos ritmos nordestinos (baião, xote, arrasta-pé). Carnaval do Bloco (desde 2022) funde percussão, baixo, guitarra e vocais numa performance única"
+- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua, festas juninas e a representatividade negra no ABC Paulista"
+- **Bloco do Amor**: "Tocamos nossa herança cultural com arte, memória e identidade, valorizando a ancestralidade presente nos ritmos populares brasileiros. Música como linguagem universal"
 
 ---
 
 ## ✅ CHECKLIST DE INFORMAÇÕES CONFIRMADAS
 
 - [x] Nome do bloco: Bloco Praieira
-- [x] Ano de fundação: 2021
+- [x] Origem: Oficina de percussão comunitária
 - [x] Fundadores: Charles e Vinícius Guichabeira (irmãos)
-- [x] Local de fundação: Bar "A Praieira"
+- [x] Local de fundação: Espaço Cultural "A Praieira"
+- [x] Homenagem: A Praieira (espaço que acolheu o projeto) e Chico Science (inspiração do espaço)
 - [x] Cidade: Santo André
 - [x] Região: ABC Paulista
-- [x] Número de integrantes: ~20
-- [x] Ritmos: Axé, Ijexá, Samba, Maracatu, outros
-- [x] Instrumentos harmonia: Vozes, Violão, Baixo
+- [x] Número de integrantes: ~22
+- [x] Ritmos: Axé, Ijexá, Samba, Maracatu, Baião, Arrasta-pé, Xote
+- [x] Instrumentos harmonia: Vozes, Violão, Baixo, Guitarra
 - [x] Instrumentos percussão: Caixa, Surdo, Xequerê, Ganzá, Agogô, Repinique, Tamborim
-- [x] Tipos de eventos: Carnaval, bares, eventos culturais, eventos privados
+- [x] Projetos: Arraial do Bloco (junino) e Carnaval do Bloco (desde 2022)
+- [x] Apresentações: 20+ locais (Virada Cultural SBC, Avenida Paulista, parques, espaços culturais, etc)
 - [x] Símbolo: Caranguejo 🦀
 - [x] Proposta artística: Bloco do Amor
 - [x] Artistas de referência: Gilberto Gil, Luiz Gonzaga, Dona Ivone Lara, Luedji Luna, Cordel do Fogo Encantado
-- [x] Valores: Representatividade negra, diversidade, inclusão
+- [x] Valores: Representatividade negra, diversidade, inclusão, acessibilidade musical
 - [x] Classificação: Livre
 - [x] Bairro: Centro
 - [x] Logo oficial: logo_branco.png
@@ -616,6 +684,7 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - [x] Chave PIX: blocopraieira@gmail.com
 - [x] Lista completa de membros (22 integrantes com fotos)
 - [x] Vídeo oficial: Carnaval 2025.mp4
+- [x] Missão: Proporcionar experiência musical acessível, formar novas plateias, criar pontes entre ritmo e comunidade
 
 ## ❓ INFORMAÇÕES A CONFIRMAR/COLETAR
 
@@ -634,6 +703,9 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - **Ijexá**: Ritmo das religiões de matriz africana, especialmente Candomblé
 - **ABC Paulista**: Região metropolitana de São Paulo (Santo André, São Bernardo, São Caetano)
 - **Carnaval de rua**: Tradição de blocos populares, democráticos e gratuitos
+- **Chico Science**: Artista pernambucano homenageado pelo espaço cultural "A Praieira", que batizou-se em referência a uma de suas canções, imergindo o bloco na energia inventiva da cultura pernambucana
+- **Baião, Arrasta-pé, Xote**: Ritmos nordestinos tradicionais das festas juninas
+- **Oficina de Percussão**: Origem do Bloco Praieira, projeto de educação musical comunitária
 
 ### Observações Técnicas
 - Site deve ser responsivo (muitos acessos mobile)
