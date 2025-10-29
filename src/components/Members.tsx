@@ -1,184 +1,261 @@
-'use client'
+'use client';
 
-import { useState } from 'react'
+import { useState } from 'react';
+import Image from 'next/image';
 
-interface Member {
-  name: string
-  role?: string
-}
-
-interface InstrumentSection {
-  name: string
-  description: string
-  members: Member[]
-  color: string
-}
-
-const instrumentSections: InstrumentSection[] = [
-  {
-    name: 'Fundadores',
-    description: 'Criadores do Bloco Praieira',
-    members: [
-      { name: 'Charles Guichabeira', role: 'Cofundador' },
-      { name: 'Vinícius Guichabeira', role: 'Cofundador' }
+const membros = {
+  mestres: [
+    { nome: 'Charles Guichabeira', instrumento: 'Mestre e Cofundador', foto: 'Charles 2.jpeg' },
+    { nome: 'Vinícius Guichabeira', instrumento: 'Mestre e Cofundador', foto: 'Vini.jpg' },
+  ],
+  harmonia: [
+    { nome: 'Ana Luiza', instrumento: 'Voz', foto: 'Ana Luiza.jpeg' },
+    { nome: 'Caro', instrumento: 'Voz', foto: 'Caro.jpg' },
+    { nome: 'Carol', instrumento: 'Voz e Violão', foto: 'Carol.jpeg' },
+    { nome: 'Cocão', instrumento: 'Baixo', foto: 'Cocão.jpeg' },
+  ],
+  percussao: {
+    surdo: [
+      { nome: 'Dalli', foto: 'Dalli.jpeg' },
+      { nome: 'Gui', foto: 'Gui.jpeg' },
+      { nome: 'Nika', foto: 'Nika.jpg' },
+      { nome: 'Thiago', foto: 'Thiago.jpeg' },
     ],
-    color: 'neon-green'
+    caixa: [
+      { nome: 'Cauan', foto: 'Cauan.jpeg' },
+      { nome: 'Cauê', foto: 'Cauê.jpg' },
+    ],
+    repinique: [
+      { nome: 'Maya', foto: 'Maya.jpeg' },
+    ],
+    tamborim: [
+      { nome: 'Katia', foto: 'Katia Katia Katia.jpg' },
+      { nome: 'Luana', foto: 'Luana.jpg' },
+      { nome: 'Monisi', foto: 'Monisi.jpeg' },
+      { nome: 'Morelli', foto: 'Morelli.jpg' },
+      { nome: 'Pilar', foto: 'Pilar.jpeg' },
+      { nome: 'Yris', foto: 'Yris.JPG' },
+    ],
+    xequere: [
+      { nome: 'Flavinha', instrumento: 'Xequerê, Ganzá, Triângulo', foto: 'Flavinha.jpeg' },
+      { nome: 'Mirella', instrumento: 'Xequerê, Ganzá', foto: 'Mirella.jpeg' },
+      { nome: 'Paula Lopes', instrumento: 'Xequerê, Ganzá', foto: 'paula_lopes.jpg' },
+    ],
   },
-  {
-    name: 'Harmonia',
-    description: 'Vozes, violão e baixo - Base melódica do bloco',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-pink'
-  },
-  {
-    name: 'Caixa',
-    description: 'Percussão de base e marcação do ritmo',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-blue'
-  },
-  {
-    name: 'Surdo',
-    description: 'Percussão grave que dá a base rítmica',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-green'
-  },
-  {
-    name: 'Xequerê',
-    description: 'Instrumento de percussão afro-brasileiro',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-pink'
-  },
-  {
-    name: 'Ganzá',
-    description: 'Percussão de chocalho para marcação',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-blue'
-  },
-  {
-    name: 'Agogô',
-    description: 'Instrumento de percussão metálico',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-green'
-  },
-  {
-    name: 'Repinique',
-    description: 'Percussão de chamada e variações',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-pink'
-  },
-  {
-    name: 'Tamborim',
-    description: 'Percussão aguda com detalhes rítmicos',
-    members: [
-      { name: 'Aguardando cadastro' }
-    ],
-    color: 'neon-blue'
-  }
-]
+};
 
 export default function Members() {
-  const [openSections, setOpenSections] = useState<number[]>([])
+  const [openSection, setOpenSection] = useState<string | null>('mestres');
 
-  const toggleSection = (index: number) => {
-    setOpenSections(prev => 
-      prev.includes(index) 
-        ? prev.filter(i => i !== index)
-        : [...prev, index]
-    )
-  }
+  const toggleSection = (section: string) => {
+    setOpenSection(openSection === section ? null : section);
+  };
 
   return (
-    <section className="py-20 px-4">
-      <div className="max-w-4xl mx-auto">
-        <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            <span className="gradient-text">Nossos Membros</span>
-          </h2>
-          <p className="text-xl text-gray-300">
-            Conheça os integrantes que fazem a magia do carnaval acontecer
-          </p>
-        </div>
+    <section id="membros" className="py-20 px-4 bg-black/30">
+      <div className="max-w-7xl mx-auto">
+        <h2 className="text-5xl md:text-6xl font-bold text-center mb-16">
+          <span className="bg-gradient-to-r from-neon-green to-neon-blue bg-clip-text text-transparent">
+            Nossos Integrantes
+          </span>
+        </h2>
 
-        <div className="space-y-4">
-          {instrumentSections.map((section, index) => (
-            <div key={index} className="glassmorphism overflow-hidden">
-              <button
-                onClick={() => toggleSection(index)}
-                className="w-full p-6 text-left flex items-center justify-between hover:bg-white/5 transition-colors"
-              >
-                <div>
-                  <h3 className={`text-2xl font-semibold ${section.color === 'neon-green' ? 'text-neon-green' : section.color === 'neon-pink' ? 'text-neon-pink' : 'text-neon-blue'} neon-text`}>
-                    {section.name}
-                  </h3>
-                  <p className="text-gray-400 mt-1">{section.description}</p>
-                </div>
-                
-                <div className={`transform transition-transform duration-300 ${openSections.includes(index) ? 'rotate-180' : ''}`}>
-                  <svg className="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
-                </div>
-              </button>
-
-              {openSections.includes(index) && (
-                <div className="px-6 pb-6 border-t border-white/10">
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-                    {section.members.map((member, memberIndex) => (
-                      <div
-                        key={memberIndex}
-                        className="bg-black/30 p-4 rounded-lg border border-white/10 hover:border-white/20 transition-colors"
-                      >
-                        <h4 className="font-semibold text-white">{member.name}</h4>
-                        {member.role && (
-                          <p className={`text-sm mt-1 ${section.color === 'neon-green' ? 'text-neon-green' : section.color === 'neon-pink' ? 'text-neon-pink' : 'text-neon-blue'}`}>
-                            {member.role}
-                          </p>
-                        )}
-                      </div>
-                    ))}
-                  </div>
-                  
-                  <div className="mt-4 text-center">
-                    <p className="text-gray-400 text-sm">
-                      Total de membros: <span className="text-white font-semibold">{section.members.length}</span>
-                    </p>
-                  </div>
-                </div>
-              )}
-            </div>
-          ))}
-        </div>
-
-        <div className="mt-12 text-center glassmorphism p-6">
-          <h3 className="text-2xl font-semibold mb-4 text-neon-blue neon-text">
-            Quer fazer parte do Bloco Praieira?
-          </h3>
-          <p className="text-gray-300 mb-6">
-            Estamos sempre abertos a novos integrantes que queiram compartilhar 
-            a paixão pelo carnaval de rua. Entre em contato conosco!
-          </p>
-          <a 
-            href="mailto:blocopraieira@gmail.com"
-            className="inline-block bg-gradient-to-r from-neon-green to-neon-blue text-black font-bold py-3 px-8 rounded-full hover:shadow-neon-blue transition-all duration-300 transform hover:scale-105"
+        {/* Mestres e Fundadores */}
+        <div className="mb-8">
+          <button
+            onClick={() => toggleSection('mestres')}
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-pink border-2 border-transparent transition-all"
           >
-            Entrar em Contato
-          </a>
+            <div className="flex items-center gap-4">
+              <span className="text-4xl">🎯</span>
+              <h3 className="text-2xl font-bold text-neon-pink">Mestres e Fundadores</h3>
+            </div>
+            <span className="text-3xl text-neon-pink">{openSection === 'mestres' ? '−' : '+'}</span>
+          </button>
+          
+          {openSection === 'mestres' && (
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
+              {membros.mestres.map((membro, idx) => (
+                <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                  <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                    <Image
+                      src={`/fotos/membros/${membro.foto}`}
+                      alt={membro.nome}
+                      fill
+                      className="object-cover"
+                    />
+                  </div>
+                  <h4 className="font-bold text-neon-pink">{membro.nome}</h4>
+                  <p className="text-sm text-gray-400">{membro.instrumento}</p>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* Harmonia */}
+        <div className="mb-8">
+          <button
+            onClick={() => toggleSection('harmonia')}
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-green border-2 border-transparent transition-all"
+          >
+            <div className="flex items-center gap-4">
+              <span className="text-4xl">🎤</span>
+              <h3 className="text-2xl font-bold text-neon-green">Harmonia (Vozes e Cordas)</h3>
+            </div>
+            <span className="text-3xl text-neon-green">{openSection === 'harmonia' ? '−' : '+'}</span>
+          </button>
+          
+          {openSection === 'harmonia' && (
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-6">
+              {membros.harmonia.map((membro, idx) => (
+                <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                  <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                    <Image
+                      src={`/fotos/membros/${membro.foto}`}
+                      alt={membro.nome}
+                      fill
+                      className="object-cover"
+                    />
+                  </div>
+                  <h4 className="font-bold text-neon-green">{membro.nome}</h4>
+                  <p className="text-sm text-gray-400">{membro.instrumento}</p>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* Percussão */}
+        <div className="mb-8">
+          <button
+            onClick={() => toggleSection('percussao')}
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-blue border-2 border-transparent transition-all"
+          >
+            <div className="flex items-center gap-4">
+              <span className="text-4xl">🥁</span>
+              <h3 className="text-2xl font-bold text-neon-blue">Percussão</h3>
+            </div>
+            <span className="text-3xl text-neon-blue">{openSection === 'percussao' ? '−' : '+'}</span>
+          </button>
+          
+          {openSection === 'percussao' && (
+            <div className="space-y-8 mt-6">
+              {/* Surdo */}
+              <div>
+                <h4 className="text-xl font-bold text-neon-blue mb-4">Surdo</h4>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                  {membros.percussao.surdo.map((membro, idx) => (
+                    <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                      <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                        <Image
+                          src={`/fotos/membros/${membro.foto}`}
+                          alt={membro.nome}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <h4 className="font-bold text-white">{membro.nome}</h4>
+                      <p className="text-sm text-gray-400">Surdo</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Caixa */}
+              <div>
+                <h4 className="text-xl font-bold text-neon-blue mb-4">Caixa</h4>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                  {membros.percussao.caixa.map((membro, idx) => (
+                    <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                      <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                        <Image
+                          src={`/fotos/membros/${membro.foto}`}
+                          alt={membro.nome}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <h4 className="font-bold text-white">{membro.nome}</h4>
+                      <p className="text-sm text-gray-400">Caixa</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Repinique */}
+              <div>
+                <h4 className="text-xl font-bold text-neon-blue mb-4">Repinique</h4>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                  {membros.percussao.repinique.map((membro, idx) => (
+                    <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                      <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                        <Image
+                          src={`/fotos/membros/${membro.foto}`}
+                          alt={membro.nome}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <h4 className="font-bold text-white">{membro.nome}</h4>
+                      <p className="text-sm text-gray-400">Repinique</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Tamborim */}
+              <div>
+                <h4 className="text-xl font-bold text-neon-blue mb-4">Tamborim</h4>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                  {membros.percussao.tamborim.map((membro, idx) => (
+                    <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                      <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                        <Image
+                          src={`/fotos/membros/${membro.foto}`}
+                          alt={membro.nome}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <h4 className="font-bold text-white">{membro.nome}</h4>
+                      <p className="text-sm text-gray-400">Tamborim</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Xequerê e Ganzá */}
+              <div>
+                <h4 className="text-xl font-bold text-neon-blue mb-4">Xequerê, Ganzá e Percussões Diversas</h4>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+                  {membros.percussao.xequere.map((membro, idx) => (
+                    <div key={idx} className="glassmorphism p-4 rounded-xl text-center hover:scale-105 transition-transform">
+                      <div className="relative w-full aspect-square mb-3 rounded-lg overflow-hidden">
+                        <Image
+                          src={`/fotos/membros/${membro.foto}`}
+                          alt={membro.nome}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <h4 className="font-bold text-white">{membro.nome}</h4>
+                      <p className="text-sm text-gray-400">{membro.instrumento}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Total */}
+        <div className="text-center mt-12">
+          <p className="text-2xl text-gray-300">
+            Total: <span className="text-neon-pink font-bold text-4xl">22</span> integrantes
+          </p>
         </div>
       </div>
     </section>
-  )
+  );
 }

@@ -1,10 +1,10 @@
-import type { Config } from 'tailwindcss'
+import type { Config } from "tailwindcss";
 
 const config: Config = {
   content: [
-    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
     extend: {
@@ -13,19 +13,8 @@ const config: Config = {
         'neon-pink': '#FF10F0',
         'neon-blue': '#00FFFF',
       },
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-        'neon-gradient': 'linear-gradient(45deg, #39FF14, #FF10F0, #00FFFF)',
-      },
-      boxShadow: {
-        'neon-green': '0 0 20px #39FF14',
-        'neon-pink': '0 0 20px #FF10F0',
-        'neon-blue': '0 0 20px #00FFFF',
-      },
       animation: {
-        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
-        'fade-in': 'fadeIn 0.5s ease-in-out',
+        'fade-in': 'fadeIn 1s ease-in',
         'slide-up': 'slideUp 0.5s ease-out',
       },
       keyframes: {
@@ -41,6 +30,5 @@ const config: Config = {
     },
   },
   plugins: [],
-}
-
-export default config
+};
+export default config;

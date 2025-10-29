@@ -23,6 +23,15 @@
 ### História
 O Bloco Praieira foi fundado em 2021 pelos irmãos Charles Guichabeira e Vinícius Guichabeira no icônico bar "A Praieira", localizado em Santo André, no ABC Paulista. Desde sua criação, o bloco se dedica a promover a cultura do carnaval de rua, levando alegria, música e ritmos brasileiros autênticos para as ruas, bares e eventos da região do ABC.
 
+### Proposta Artística - Bloco do Amor
+O Bloco Praieira – Bloco do Amor propõe uma celebração da música brasileira, referenciando as músicas com influências africanas e artistas consagrados que fazem parte do nosso patrimônio como **Gilberto Gil**, **Luiz Gonzaga** e **Dona Ivone Lara**, por meio da percussão coletiva. 
+
+Também traz artistas atuais no repertório como **Luedji Luna** e **Cordel do Fogo Encantado**. A apresentação valoriza a ancestralidade presente nos ritmos populares brasileiros, como **Axé**, **Ijexá**, **Samba** e **Maracatu**. 
+
+Tocamos nossa herança cultural com arte, memória e identidade. O projeto fortalece a **representatividade negra** na cena musical contemporânea, contando também com seus integrantes negros e pardos, promovendo diversidade, inclusão e valorização das tradições culturais.
+
+**Classificação**: Livre
+
 ---
 
 ## 🎵 REPERTÓRIO MUSICAL
@@ -30,14 +39,14 @@ O Bloco Praieira foi fundado em 2021 pelos irmãos Charles Guichabeira e Viníci
 ### Ritmos Principais
 O Bloco Praieira toca uma rica variedade de ritmos brasileiros:
 
-1. **Maracatu**
-   - Ritmo afro-brasileiro de origem pernambucana
-   - Forte componente de percussão
-   - Tradição nordestina
+1. **Axé**
+   - Ritmo afro-brasileiro surgido na Bahia
+   - Energia vibrante e celebrativa
+   - Forte influência da cultura negra
 
 2. **Ijexá** (também grafado Ijexá)
    - Ritmo afro-brasileiro de origem iorubá
-   - Utilizado em religiões de matriz africana
+   - Utilizado em religiões de matriz africana, especialmente Candomblé
    - Cadência marcante e envolvente
 
 3. **Samba**
@@ -45,9 +54,27 @@ O Bloco Praieira toca uma rica variedade de ritmos brasileiros:
    - Base da música popular brasileira
    - Versatilidade rítmica
 
-4. **Outros Ritmos Brasileiros**
+4. **Maracatu**
+   - Ritmo afro-brasileiro de origem pernambucana
+   - Forte componente de percussão
+   - Tradição nordestina
+
+5. **Outros Ritmos Brasileiros**
    - Sempre abertos a novas influências
    - Outros gêneros da música popular brasileira
+
+### Artistas e Influências no Repertório
+
+#### Artistas Consagrados (Patrimônio Cultural)
+- **Gilberto Gil** - Ícone da MPB e do Tropicalismo
+- **Luiz Gonzaga** - Rei do Baião, cultura nordestina
+- **Dona Ivone Lara** - Primeira-dama do samba
+
+#### Artistas Contemporâneos
+- **Luedji Luna** - Música afro-brasileira contemporânea
+- **Cordel do Fogo Encantado** - Rock e cultura popular nordestina
+
+*O repertório celebra a música brasileira com influências africanas, valorizando tanto artistas consagrados quanto a cena contemporânea.*
 
 ---
 
@@ -136,13 +163,122 @@ O Bloco Praieira toca uma rica variedade de ritmos brasileiros:
 - **Percussão**: 7 tipos de instrumentos diferentes
 - **Total**: Aproximadamente 20 pessoas
 
+### Lista Completa de Membros
+
+**Total**: 22 integrantes cadastrados
+
+---
+
+#### 🎯 MESTRES E FUNDADORES
+
+1. **Charles Guichabeira** - *Mestre e Cofundador*
+   - Foto: `drive-download-20250912T130648Z-1-001/Charles 2.jpeg`
+
+2. **Vinícius Guichabeira** - *Mestre e Cofundador*
+   - Foto: `drive-download-20250912T130648Z-1-001/Vini.jpg`
+
+---
+
+#### 🎤 HARMONIA (Vozes e Cordas)
+
+**Vozes:**
+- **Ana Luiza**
+  - Foto: `drive-download-20250912T130648Z-1-001/Ana Luiza.jpeg`
+
+- **Caro**
+  - Foto: `drive-download-20250912T130648Z-1-001/Caro.jpg`
+
+**Voz e Violão:**
+- **Carol**
+  - Foto: `drive-download-20250912T130648Z-1-001/Carol.jpeg`
+
+**Baixo:**
+- **Cocão**
+  - Foto: `drive-download-20250912T130648Z-1-001/Cocão.jpeg`
+
+---
+
+#### 🥁 PERCUSSÃO
+
+**Surdo:**
+- **Dalli**
+  - Foto: `drive-download-20250912T130648Z-1-001/Dalli.jpeg`
+
+- **Gui**
+  - Foto: `drive-download-20250912T130648Z-1-001/Gui.jpeg`
+
+- **Nika**
+  - Foto: `drive-download-20250912T130648Z-1-001/Nika.jpg`
+
+- **Thiago**
+  - Foto: `drive-download-20250912T130648Z-1-001/Thiago.jpeg`
+
+**Caixa:**
+- **Cauan**
+  - Foto: `drive-download-20250912T130648Z-1-001/Cauan.jpeg`
+
+- **Cauê**
+  - Foto: `drive-download-20250912T130648Z-1-001/Cauê.jpg`
+
+**Repinique:**
+- **Maya**
+  - Foto: `drive-download-20250912T130648Z-1-001/Maya.jpeg`
+
+**Tamborim:**
+- **Katia**
+  - Foto: `drive-download-20250912T130648Z-1-001/Katia Katia Katia.jpg`
+
+- **Luana**
+  - Foto: `drive-download-20250912T130648Z-1-001/Luana.jpg`
+
+- **Monisi**
+  - Foto: `drive-download-20250912T130648Z-1-001/Monisi.jpeg`
+
+- **Morelli**
+  - Foto: `drive-download-20250912T130648Z-1-001/Morelli.jpg`
+
+- **Pilar**
+  - Foto: `drive-download-20250912T130648Z-1-001/Pilar.jpeg`
+
+- **Yris**
+  - Foto: `drive-download-20250912T130648Z-1-001/Yris.JPG`
+
+**Xequerê, Ganzá e Percussões Diversas:**
+- **Flavinha** - *Xequerê, Ganzá, Triângulo*
+  - Foto: `drive-download-20250912T130648Z-1-001/Flavinha.jpeg`
+
+- **Mirella** - *Xequerê, Ganzá*
+  - Foto: `drive-download-20250912T130648Z-1-001/Mirella.jpeg`
+
+- **Paula Lopes** - *Xequerê, Ganzá*
+  - Foto: `drive-download-20250912T130648Z-1-001/paula_lopes.jpg`
+
+---
+
+#### 📊 Resumo por Instrumento
+
+| Instrumento | Quantidade |
+|-------------|------------|
+| Mestre | 2 |
+| Voz | 2 |
+| Voz e Violão | 1 |
+| Baixo | 1 |
+| Surdo | 4 |
+| Caixa | 2 |
+| Repinique | 1 |
+| Tamborim | 6 |
+| Xequerê/Ganzá | 3 |
+| **TOTAL** | **22** |
+
+
+
 ---
 
 ## 📍 LOCALIZAÇÃO E ATUAÇÃO
 
 ### Sede/Base
 - **Bar de origem**: "A Praieira"
-- **Bairro**: [Informação a confirmar]
+- **Bairro**: Centro
 - **Cidade**: Santo André
 - **Região**: ABC Paulista
 - **Estado**: São Paulo
@@ -202,10 +338,12 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - Preservação dos ritmos afro-brasileiros
 - Resgate cultural
 
-#### 2. Inclusão
+#### 2. Inclusão e Diversidade
 - Todos são bem-vindos para participar
 - Diversidade de integrantes
 - Acessibilidade cultural
+- **Representatividade negra** na cena musical contemporânea
+- Integrantes negros e pardos promovendo inclusão racial
 
 #### 3. Alegria
 - Levar felicidade através da música
@@ -222,9 +360,29 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - À diversidade cultural
 - Ao espaço público e comunidade
 
+#### 6. Ancestralidade
+- Valorização da herança africana
+- Arte, memória e identidade
+- Conexão com as raízes culturais brasileiras
+
 ---
 
 ## 🦀 IDENTIDADE VISUAL
+
+### Logo Oficial
+- **Arquivo**: `logo_branco.png`
+- **Localização**: Raiz do projeto
+- **Descrição**: Logo oficial do Bloco Praieira em branco
+- **Uso**: Site, redes sociais, materiais de divulgação
+
+### Material Audiovisual
+
+#### Vídeo Oficial - Carnaval 2025
+- **Arquivo**: `Carnaval 2025.mp4`
+- **Localização**: Raiz do projeto
+- **Descrição**: Gravação do Bloco Praieira tocando no Carnaval de 2025
+- **Uso**: Galeria do site, apresentação do bloco, redes sociais
+- **Importância**: Registro oficial da atuação do bloco no carnaval
 
 ### Símbolo Principal
 - **Animal**: Caranguejo 🦀
@@ -256,14 +414,10 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 ## 📞 CONTATO E REDES SOCIAIS
 
 ### Redes Sociais
-- **Instagram**: @blocopraieira (presumido - confirmar)
-- **Facebook**: [A confirmar]
-- **WhatsApp**: [A confirmar]
-- **YouTube**: [A confirmar]
+- **Instagram**: @blocopraieira
 
 ### Email
-- **Contato geral**: blocopraieira@gmail.com (presumido - confirmar)
-- **Contratações**: [A confirmar]
+- **Contato geral**: blocopraieira@gmail.com
 
 ### Localização
 - Santo André, ABC Paulista, São Paulo, Brasil
@@ -280,7 +434,7 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 
 ### Método
 - **PIX**: Sistema de pagamento instantâneo brasileiro
-- **Chave PIX**: blocopraieira@gmail.com (a confirmar)
+- **Chave PIX**: blocopraieira@gmail.com
 - **QR Code**: Geração automática via site
 - **Valores**: Doações livres, sugestões de valores
 
@@ -291,16 +445,22 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 ### Diferenciais
 1. **Origem Autêntica**: Fundado em bar tradicional
 2. **Irmãos Fundadores**: História familiar
-3. **Ritmos Diversos**: Não apenas samba, mas maracatu e ijexá
+- **Ritmos Diversos**: Axé, Ijexá, Samba, Maracatu
 4. **ABC Paulista**: Forte identidade regional
 5. **Tamanho Intimista**: ~20 integrantes (não é megabloco)
 6. **Versatilidade**: Carnaval, bares e eventos diversos
+7. **Bloco do Amor**: Celebração da música afro-brasileira
+8. **Repertório Rico**: De Luiz Gonzaga a Luedji Luna
+9. **Representatividade**: Valorização da cultura e identidade negra
+10. **Classificação Livre**: Acessível para todas as idades
 
 ### Proposta
 - Carnaval acessível e autêntico
 - Música de qualidade com raízes afro-brasileiras
 - Integração da comunidade local
 - Festa democrática e inclusiva
+- Celebração da ancestralidade e identidade cultural
+- Percussão coletiva como arte e memória
 
 ---
 
@@ -344,8 +504,9 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 
 #### 6. Galeria
 - Fotos de apresentações
-- Vídeos (quando disponíveis)
+- Vídeos (Carnaval 2025.mp4 disponível)
 - Registros históricos
+- Player de vídeo integrado
 
 #### 7. Contato
 - Redes sociais
@@ -415,14 +576,18 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 ### Frases de Impacto
 - "Levando alegria e ritmo afro-brasileiro pelas ruas do ABC"
 - "Fundado no coração de Santo André"
-- "Maracatu, Ijexá, Samba e muita festa"
+- "Axé, Ijexá, Samba, Maracatu e muita festa"
 - "Do bar A Praieira para as ruas do ABC Paulista"
 - "Mais de 20 integrantes, uma só paixão: o carnaval"
+- "Bloco do Amor - Arte, memória e identidade"
+- "Celebrando nossa herança cultural com percussão coletiva"
+- "De Gilberto Gil a Luedji Luna: música brasileira com alma africana"
 
 ### Descrições Curtas
-- **Hero**: "Bloco de carnaval de Santo André que toca maracatu, ijexá, samba e outros ritmos brasileiros desde 2021"
-- **Sobre**: "Fundado pelos irmãos Charles e Vinícius Guichabeira, levamos cultura e alegria para carnaval, bares e eventos"
-- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua no ABC Paulista"
+- **Hero**: "Bloco de carnaval de Santo André que celebra a música afro-brasileira através de Axé, Ijexá, Samba e Maracatu desde 2021"
+- **Sobre**: "Fundado pelos irmãos Charles e Vinícius Guichabeira, levamos cultura, ancestralidade e alegria para carnaval, bares e eventos"
+- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua e a representatividade negra no ABC Paulista"
+- **Bloco do Amor**: "Tocamos nossa herança cultural com arte, memória e identidade, valorizando a ancestralidade presente nos ritmos populares brasileiros"
 
 ---
 
@@ -435,24 +600,28 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - [x] Cidade: Santo André
 - [x] Região: ABC Paulista
 - [x] Número de integrantes: ~20
-- [x] Ritmos: Maracatu, Ijexá, Samba, outros
+- [x] Ritmos: Axé, Ijexá, Samba, Maracatu, outros
 - [x] Instrumentos harmonia: Vozes, Violão, Baixo
 - [x] Instrumentos percussão: Caixa, Surdo, Xequerê, Ganzá, Agogô, Repinique, Tamborim
 - [x] Tipos de eventos: Carnaval, bares, eventos culturais, eventos privados
 - [x] Símbolo: Caranguejo 🦀
+- [x] Proposta artística: Bloco do Amor
+- [x] Artistas de referência: Gilberto Gil, Luiz Gonzaga, Dona Ivone Lara, Luedji Luna, Cordel do Fogo Encantado
+- [x] Valores: Representatividade negra, diversidade, inclusão
+- [x] Classificação: Livre
+- [x] Bairro: Centro
+- [x] Logo oficial: logo_branco.png
+- [x] Instagram: @blocopraieira
+- [x] Email: blocopraieira@gmail.com
+- [x] Chave PIX: blocopraieira@gmail.com
+- [x] Lista completa de membros (22 integrantes com fotos)
+- [x] Vídeo oficial: Carnaval 2025.mp4
 
 ## ❓ INFORMAÇÕES A CONFIRMAR/COLETAR
 
-- [ ] Endereço exato do Bar "A Praieira"
-- [ ] Redes sociais oficiais (Instagram, Facebook)
-- [ ] Email oficial de contato
-- [ ] Chave PIX para doações
-- [ ] Fotos oficiais do bloco
-- [ ] Logo oficial (se houver)
+- [ ] Endereço completo do Bar "A Praieira"
 - [ ] Próximos eventos/agenda
-- [ ] Nomes dos integrantes atuais
 - [ ] Histórias/anedotas específicas
-- [ ] Músicas/repertório específico
 - [ ] Parcerias e colaborações
 - [ ] Conquistas e marcos importantes
 

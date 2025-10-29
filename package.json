@@ -1,6 +1,6 @@
 {
   "name": "bloco-praieira",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,26 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.5.3",
+    "next": "15.0.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "@prisma/client": "^5.20.0",
-    "next-auth": "^4.24.8",
-    "bcryptjs": "^2.4.3",
-    "qrcode": "^1.5.4"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "typescript": "^5.6.3",
-    "@types/node": "^22.7.5",
-    "@types/react": "^18.3.11",
-    "@types/react-dom": "^18.3.1",
-    "@types/bcryptjs": "^2.4.6",
-    "@types/qrcode": "^1.5.5",
-    "prisma": "^5.20.0",
-    "tailwindcss": "^3.4.13",
-    "postcss": "^8.4.47",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9.12.0",
-    "eslint-config-next": "15.5.3"
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5"
   }
 }
