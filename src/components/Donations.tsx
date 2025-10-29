@@ -1,9 +1,32 @@
 'use client';
 
+import { useState } from 'react';
+
 export default function Donations() {
-  const handleCopyPix = () => {
-    navigator.clipboard.writeText('blocopraieira@gmail.com');
-    alert('Chave PIX copiada! 🦀');
+  const [copied, setCopied] = useState(false);
+  
+  const handleCopyPix = async () => {
+    try {
+      await navigator.clipboard.writeText('blocopraieira@gmail.com');
+      setCopied(true);
+      setTimeout(() => setCopied(false), 3000);
+    } catch (err) {
+      // Fallback para navegadores antigos
+      const textArea = document.createElement('textarea');
+      textArea.value = 'blocopraieira@gmail.com';
+      textArea.style.position = 'fixed';
+      textArea.style.opacity = '0';
+      document.body.appendChild(textArea);
+      textArea.select();
+      try {
+        document.execCommand('copy');
+        setCopied(true);
+        setTimeout(() => setCopied(false), 3000);
+      } catch (e) {
+        console.error('Erro ao copiar:', e);
+      }
+      document.body.removeChild(textArea);
+    }
   };
 
   return (
@@ -37,8 +60,9 @@ export default function Donations() {
             <button
               onClick={handleCopyPix}
               className="px-6 py-3 bg-gradient-to-r from-neon-pink to-neon-green rounded-full font-bold text-black hover:scale-105 transition-transform"
+              aria-label="Copiar chave PIX para área de transferência"
             >
-              📋 Copiar Chave PIX
+              {copied ? '✅ Copiado!' : '📋 Copiar Chave PIX'}
             </button>
           </div>
 

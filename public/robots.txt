@@ -1,0 +1,11 @@
+# Robots.txt - Bloco Praieira
+User-agent: *
+Allow: /
+
+# Disallow admin or sensitive areas if any
+Disallow: /api/
+Disallow: /_next/static/
+Disallow: /.vercel/
+
+# Sitemap
+Sitemap: https://blocopraieira-pugxf7i0n-pilarleminskis-projects.vercel.app/sitemap.xml
