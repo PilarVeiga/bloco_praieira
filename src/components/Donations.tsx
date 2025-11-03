@@ -54,7 +54,7 @@ export default function Donations() {
           {/* Chave PIX */}
           <div className="bg-black/40 p-6 rounded-xl mb-8 border-2 border-neon-pink">
             <p className="text-gray-400 text-sm mb-2">Chave PIX (Email)</p>
-            <p className="text-2xl font-bold text-neon-pink mb-4">
+            <p className="text-base sm:text-xl md:text-2xl font-bold text-neon-pink mb-4 break-all px-2">
               blocopraieira@gmail.com
             </p>
             <button
