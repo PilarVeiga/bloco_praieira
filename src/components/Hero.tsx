@@ -70,11 +70,6 @@ export default function Hero() {
             Apoie via PIX
           </a>
         </div>
-
-        {/* Scroll Indicator */}
-        <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
-          <div className="text-neon-green text-4xl">↓</div>
-        </div>
       </div>
     </section>
   );
