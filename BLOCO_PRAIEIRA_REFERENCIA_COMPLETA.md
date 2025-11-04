@@ -13,7 +13,7 @@
 - **Ano de Fundação**: 2021
 - **Fundadores**: 
   - Charles Guichabeira (irmão)
-  - Vinícius Guichabeira (irmão)
+  - Vinícius Guichabeira (irmão) - In Memoriam 🕊️
 - **Local de Fundação**: Bar "A Praieira" (2021)
 - **Localização Atual**: Bloco itinerante - sem sede fixa
 - **Cidade**: Santo André
