@@ -51,7 +51,7 @@ export default function Hero() {
             <span className="text-neon-blue font-bold">Vinícius Guichabeira</span>
           </p>
           <p className="text-gray-400 text-sm mt-2">
-            Bar "A Praieira" • Centro, Santo André • ABC Paulista
+            Santo André • ABC Paulista • 2021
           </p>
         </div>
 

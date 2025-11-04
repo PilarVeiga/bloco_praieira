@@ -41,7 +41,7 @@ export default function Contact() {
             <h3 className="text-2xl font-bold text-neon-blue mb-2">Localização</h3>
             <p className="text-gray-400">Santo André</p>
             <p className="text-gray-400">ABC Paulista, SP</p>
-            <p className="text-sm text-gray-500 mt-2">Bar "A Praieira" - Centro</p>
+            <p className="text-sm text-gray-500 mt-2">Bloco itinerante - sem sede fixa</p>
           </div>
         </div>
 
