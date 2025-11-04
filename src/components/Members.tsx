@@ -85,10 +85,9 @@ export default function Members() {
                       className="object-cover"
                     />
                     {membro.inMemoriam && (
-                      <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
-                        <div className="bg-black/80 px-3 py-2 rounded-lg border border-white/30">
+                      <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
+                        <div className="bg-black/70 px-4 py-2 rounded-lg border border-white/40">
                           <p className="text-white text-sm font-semibold">In Memoriam</p>
-                          <p className="text-white/80 text-xs">🕊️</p>
                         </div>
                       </div>
                     )}
