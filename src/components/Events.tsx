@@ -3,7 +3,7 @@
 export default function Events() {
   const projetos = [
     {
-      icon: '�',
+      icon: '🌾',
       titulo: 'Arraial do Bloco',
       descricao: 'Nosso projeto junino que celebra as tradições nordestinas com baião, arrasta-pé e xote. Uma festa acessível onde todos podem participar, dançar e se conectar com as raízes da cultura brasileira.',
       periodo: 'Junho/Julho',
@@ -11,7 +11,7 @@ export default function Events() {
       ritmos: ['Baião', 'Arrasta-pé', 'Xote']
     },
     {
-      icon: '�',
+      icon: '🎭',
       titulo: 'Carnaval do Bloco',
       descricao: 'Desde 2022, nosso bloco carnavalesco leva alegria e ritmo para as ruas do ABC Paulista. Axé, ijexá, samba e maracatu em uma celebração vibrante e inclusiva.',
       periodo: 'Fevereiro/Março',
