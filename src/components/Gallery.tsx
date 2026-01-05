@@ -6,8 +6,8 @@ import Image from 'next/image';
 const fotos = [
   'Praieira_Out25_10.JPG',
   'Praieira_Out25_25.JPG',
-  'Praieira_Out25_45.JPG',
-  'Praieira_Out25_75.JPG',
+  'Praieira_Out25_135.JPG',
+  'Praieira_Out25_142.JPG',
   'Praieira_Out25_100.JPG',
   'Praieira_Out25_125.JPG',
   'Praieira_Out25_150.JPG',
