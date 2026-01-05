@@ -84,7 +84,7 @@ export default function Members() {
                       src={`/fotos/membros/${membro.foto}`}
                       alt={membro.nome}
                       fill
-                      className="object-cover"
+                      className="object-cover object-top"
                     />
                     {membro.inMemoriam && (
                       <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
@@ -124,7 +124,7 @@ export default function Members() {
                       src={`/fotos/membros/${membro.foto}`}
                       alt={membro.nome}
                       fill
-                      className="object-cover"
+                      className="object-cover object-top"
                     />
                   </div>
                   <h4 className="font-bold text-neon-green">{membro.nome}</h4>
@@ -161,7 +161,7 @@ export default function Members() {
                           src={`/fotos/membros/${membro.foto}`}
                           alt={membro.nome}
                           fill
-                          className="object-cover"
+                            className="object-cover object-top"
                         />
                       </div>
                       <h4 className="font-bold text-white">{membro.nome}</h4>
@@ -182,7 +182,7 @@ export default function Members() {
                           src={`/fotos/membros/${membro.foto}`}
                           alt={membro.nome}
                           fill
-                          className="object-cover"
+                          className="object-cover object-top"
                         />
                       </div>
                       <h4 className="font-bold text-white">{membro.nome}</h4>
@@ -203,7 +203,7 @@ export default function Members() {
                           src={`/fotos/membros/${membro.foto}`}
                           alt={membro.nome}
                           fill
-                          className="object-cover"
+                          className="object-cover object-top"
                         />
                       </div>
                       <h4 className="font-bold text-white">{membro.nome}</h4>
@@ -224,7 +224,7 @@ export default function Members() {
                           src={`/fotos/membros/${membro.foto}`}
                           alt={membro.nome}
                           fill
-                          className="object-cover"
+                          className="object-cover object-top"
                         />
                       </div>
                       <h4 className="font-bold text-white">{membro.nome}</h4>
@@ -245,7 +245,7 @@ export default function Members() {
                           src={`/fotos/membros/${membro.foto}`}
                           alt={membro.nome}
                           fill
-                          className="object-cover"
+                          className="object-cover object-top"
                         />
                       </div>
                       <h4 className="font-bold text-white">{membro.nome}</h4>
