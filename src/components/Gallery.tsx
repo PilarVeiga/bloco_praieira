@@ -67,10 +67,10 @@ export default function Gallery() {
 
         <div className="glassmorphism p-8 rounded-2xl mb-12">
           <h3 className="text-3xl font-bold text-neon-green mb-6 text-center">
-            🎥 Carnaval 2025
+            🎥 Bloco Praieira
           </h3>
           <p className="text-gray-300 text-center mb-8">
-            Confira nossa apresentação no Carnaval de 2025!
+            Confira nossa apresentação do Bloco Praieira!
           </p>
           
           <div className="relative aspect-video rounded-xl overflow-hidden shadow-2xl shadow-neon-pink/20">
@@ -79,12 +79,15 @@ export default function Gallery() {
               className="w-full h-full"
               poster="/logo_branco.png"
             >
-              <source src="/videos/Carnaval 2025.mp4" type="video/mp4" />
+              <source src="/videos/bloco_praieira.mov" type="video/mp4" />
               Seu navegador não suporta o elemento de vídeo.
             </video>
           </div>
 
-          <p className="text-gray-400 text-sm text-center mt-6">
+          <p className="text-gray-400 text-sm text-center mt-4">
+            🎤 Voz: Juliana Morelli | 🎬 Edição: Yris Froes
+          </p>
+          <p className="text-gray-400 text-sm text-center mt-2">
             📍 Santo André, ABC Paulista • 2025
           </p>
         </div>
