@@ -46,8 +46,11 @@
 - ✅ Sem APIs backend (site estático)
 
 ### Dependências
-- ✅ Todas as dependências atualizadas
+- ✅ Todas as dependências atualizadas (última atualização: 05/01/2026)
 - ✅ Sem vulnerabilidades conhecidas
+- ✅ Next.js 16.1.1 (atualizado de 15.0.2)
+- ✅ Node types 25.0.3
+- ✅ Tailwind CSS 3.4.19
 - ✅ Minimal dependencies (apenas o necessário)
 
 ### Deploy
