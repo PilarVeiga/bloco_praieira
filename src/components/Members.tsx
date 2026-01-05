@@ -18,6 +18,7 @@ const membros = {
     surdo: [
       { nome: 'Dalli', foto: 'Dalli.jpeg' },
       { nome: 'Gui', foto: 'Gui.jpeg' },
+      { nome: 'Luana', foto: 'Luana.jpg' },
       { nome: 'Nika', foto: 'Nika.jpg' },
       { nome: 'Pedro', foto: 'Pedro.jpg' },
       { nome: 'Thiago', foto: 'Thiago.jpg' },
@@ -33,14 +34,13 @@ const membros = {
     ],
     tamborim: [
       { nome: 'Katia', foto: 'Katia.jpg' },
-      { nome: 'Luana', foto: 'Luana.jpg' },
-      { nome: 'Monisi', foto: 'Monisi.jpeg' },
       { nome: 'Morelli', foto: 'Morelli.jpg' },
       { nome: 'Pilar', foto: 'Pilar.jpg' },
       { nome: 'Yris', foto: 'Yris.jpg' },
     ],
     xequere: [
       { nome: 'Flavinha', instrumento: 'Xequerê, Ganzá, Triângulo', foto: 'Flavinha.jpeg' },
+      { nome: 'Monisi', instrumento: 'Agogô, Percussões Diversas', foto: 'Monisi.jpeg' },
       { nome: 'Yas', instrumento: 'Xequerê, Ganzá', foto: 'Yas.jpg' },
     ],
   },
