@@ -16,6 +16,18 @@ const fotos = [
   'Praieira_Out25_220.JPG',
   'Praieira_Out25_235.JPG',
   'Praieira_Out25_245.JPG',
+  'Praieira_Out25_260.JPG',
+  'Praieira_Out25_275.JPG',
+  'Praieira_Out25_290.JPG',
+  'Praieira_Out25_310.JPG',
+  'Praieira_Out25_330.JPG',
+  'Praieira_Out25_350.JPG',
+  'Praieira_Out25_365.JPG',
+  'Praieira_Out25_375.JPG',
+  'Praieira_Out25_385.JPG',
+  'Praieira_Out25_390.JPG',
+  'Praieira_Out25_395.JPG',
+  'Praieira_Out25_400.JPG',
 ];
 
 export default function Gallery() {
