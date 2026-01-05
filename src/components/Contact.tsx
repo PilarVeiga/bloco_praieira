@@ -54,9 +54,6 @@ export default function Contact() {
           <p className="text-gray-500 text-sm">
             Fundado em 2021 • Santo André, ABC Paulista
           </p>
-          <p className="text-gray-600 text-xs mt-4">
-            Arte, memória e identidade • Representatividade negra
-          </p>
         </div>
       </div>
     </section>
