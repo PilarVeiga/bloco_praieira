@@ -3,12 +3,32 @@
 export default function UpcomingShows() {
   const shows = [
     {
+      data: '01/02',
+      ano: '2026',
+      evento: 'Carnaval em SBC',
+      local: 'São Bernardo do Campo',
+      endereco: 'São Bernardo do Campo, SP',
+      instagram: '',
+      status: 'confirmado',
+      tipo: 'Carnaval'
+    },
+    {
       data: '08/02',
       ano: '2026',
       evento: 'Carnaval Dumingaz',
       local: 'Dumingaz',
       endereco: 'R. Gertrudes de Lima, 406, Santo André, SP',
       instagram: '@dumingazmaravilha',
+      status: 'confirmado',
+      tipo: 'Carnaval'
+    },
+    {
+      data: '28/02',
+      ano: '2026',
+      evento: 'Carnaval com Bloco Mulheres do ABC',
+      local: 'Santo André',
+      endereco: 'Santo André, SP',
+      instagram: '',
       status: 'confirmado',
       tipo: 'Carnaval'
     }
@@ -62,17 +82,19 @@ export default function UpcomingShows() {
                       <span className="text-neon-pink text-xl">🗺️</span>
                       <span>{show.endereco}</span>
                     </div>
-                    <div className="flex items-center gap-2">
-                      <span className="text-neon-green text-xl">📱</span>
-                      <a 
-                        href={`https://instagram.com/${show.instagram.replace('@', '')}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="hover:text-neon-pink transition-colors"
-                      >
-                        {show.instagram}
-                      </a>
-                    </div>
+                    {show.instagram && (
+                      <div className="flex items-center gap-2">
+                        <span className="text-neon-green text-xl">📱</span>
+                        <a 
+                          href={`https://instagram.com/${show.instagram.replace('@', '')}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="hover:text-neon-pink transition-colors"
+                        >
+                          {show.instagram}
+                        </a>
+                      </div>
+                    )}
                   </div>
 
                   <div className="mt-4">
