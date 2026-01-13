@@ -92,6 +92,34 @@ export default function Gallery() {
           </p>
         </div>
 
+        {/* Segundo Vídeo - Carnaval 2025 */}
+        <div className="glassmorphism p-8 rounded-2xl mb-12">
+          <h3 className="text-3xl font-bold text-neon-blue mb-6 text-center">
+            🎉 Carnaval 2025
+          </h3>
+          <p className="text-gray-300 text-center mb-8">
+            Reviva os melhores momentos do nosso Carnaval 2025!
+          </p>
+          
+          <div className="relative aspect-video rounded-xl overflow-hidden shadow-2xl shadow-neon-blue/20">
+            <video
+              controls
+              className="w-full h-full"
+              poster="/logo_branco.png"
+            >
+              <source src="/videos/carnaval_2025.mp4" type="video/mp4" />
+              Seu navegador não suporta o elemento de vídeo.
+            </video>
+          </div>
+
+          <p className="text-gray-400 text-sm text-center mt-4">
+            🎊 Bloco Praieira - Carnaval 2025
+          </p>
+          <p className="text-gray-400 text-sm text-center mt-2">
+            📍 Santo André, ABC Paulista
+          </p>
+        </div>
+
         {/* Carrossel de Fotos */}
         <div className="glassmorphism p-8 rounded-2xl">
           <h3 className="text-3xl font-bold text-neon-pink mb-6 text-center">
