@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "blocopraieira.vercel.app"
+        }
+      ],
+      "destination": "https://blocopraieira.com.br/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "blocopraieira-.*-pilarleminskis-projects.vercel.app"
+        }
+      ],
+      "destination": "https://blocopraieira.com.br/:path*",
+      "permanent": true
+    }
+  ]
+}
