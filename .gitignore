@@ -36,3 +36,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Arquivos privados e credenciais
+CREDENCIAIS_PRIVADAS.md

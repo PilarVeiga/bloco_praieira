@@ -13,6 +13,16 @@ export default function UpcomingShows() {
       tipo: 'Carnaval'
     },
     {
+      data: '07/02',
+      ano: '2026',
+      evento: 'Carnaval Coringa',
+      local: 'Coringa Mada',
+      endereco: 'A definir',
+      instagram: '@coringa.mada',
+      status: 'confirmado',
+      tipo: 'Carnaval'
+    },
+    {
       data: '08/02',
       ano: '2026',
       evento: 'Carnaval Dumingaz',
