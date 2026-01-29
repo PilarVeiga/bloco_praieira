@@ -23,6 +23,17 @@ export default function UpcomingShows() {
       tipo: 'Carnaval'
     },
     {
+      data: '07/02',
+      ano: '2026',
+      evento: 'Apresentação Nada Bar',
+      local: 'Nada Bar',
+      endereco: 'Nada Bar',
+      instagram: '',
+      status: 'confirmado',
+      tipo: 'Show',
+      horario: '14h às 16h'
+    },
+    {
       data: '08/02',
       ano: '2026',
       evento: 'Carnaval Dumingaz',
@@ -31,6 +42,39 @@ export default function UpcomingShows() {
       instagram: '@dumingazmaravilha',
       status: 'confirmado',
       tipo: 'Carnaval'
+    },
+    {
+      data: '15/02',
+      ano: '2026',
+      evento: 'Show Mr. Balmann Paranapiacaba',
+      local: 'Mr. Balmann',
+      endereco: 'Paranapiacaba, SP',
+      instagram: '',
+      status: 'confirmado',
+      tipo: 'Show',
+      horario: '13h'
+    },
+    {
+      data: '17/02',
+      ano: '2026',
+      evento: 'Show Mr. Balmann Paranapiacaba',
+      local: 'Mr. Balmann',
+      endereco: 'Paranapiacaba, SP',
+      instagram: '',
+      status: 'confirmado',
+      tipo: 'Show',
+      horario: '13h'
+    },
+    {
+      data: '20/02',
+      ano: '2026',
+      evento: 'Show Parque da Juventude',
+      local: 'Parque da Juventude',
+      endereco: 'Parque da Juventude',
+      instagram: '',
+      status: 'confirmado',
+      tipo: 'Show',
+      horario: '19h'
     },
     {
       data: '28/02',
@@ -92,6 +136,12 @@ export default function UpcomingShows() {
                       <span className="text-neon-pink text-xl">🗺️</span>
                       <span>{show.endereco}</span>
                     </div>
+                    {show.horario && (
+                      <div className="flex items-center gap-2">
+                        <span className="text-neon-green text-xl">🕒</span>
+                        <span className="font-semibold text-white">{show.horario}</span>
+                      </div>
+                    )}
                     {show.instagram && (
                       <div className="flex items-center gap-2">
                         <span className="text-neon-green text-xl">📱</span>
