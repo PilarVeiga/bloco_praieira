@@ -25,12 +25,12 @@ export default function UpcomingShows() {
     {
       data: '07/02',
       ano: '2026',
-      evento: 'Apresentação Nada Bar',
+      evento: 'Nada Bar com Mulheres do ABC - Ensaio Aberto',
       local: 'Nada Bar',
       endereco: 'Nada Bar',
       instagram: '',
       status: 'confirmado',
-      tipo: 'Show',
+      tipo: 'Ensaio Aberto',
       horario: '14h às 16h'
     },
     {
@@ -79,12 +79,12 @@ export default function UpcomingShows() {
     {
       data: '28/02',
       ano: '2026',
-      evento: 'Carnaval com Bloco Mulheres do ABC',
+      evento: 'Ensaio Aberto com Mulheres do ABC',
       local: 'Santo André',
       endereco: 'Santo André, SP',
       instagram: '',
       status: 'confirmado',
-      tipo: 'Carnaval'
+      tipo: 'Ensaio Aberto'
     }
   ];
 
