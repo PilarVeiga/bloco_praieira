@@ -22,11 +22,22 @@ export const metadata: Metadata = {
     description: "Carnaval de rua e música afro-brasileira no ABC Paulista",
     type: "website",
     locale: "pt_BR",
+    url: "https://blocopraieira.com.br",
+    siteName: "Bloco Praieira",
+    images: [
+      {
+        url: "https://blocopraieira.com.br/logo_branco.png",
+        width: 300,
+        height: 300,
+        alt: "Bloco Praieira - Bloco do Amor",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Bloco Praieira - Bloco do Amor",
     description: "Carnaval de rua e música afro-brasileira no ABC Paulista",
+    images: ["https://blocopraieira.com.br/logo_branco.png"],
   },
   verification: {
     // Adicione suas verificações aqui quando disponíveis

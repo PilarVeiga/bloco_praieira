@@ -79,6 +79,7 @@ export default function Gallery() {
               className="w-full h-full"
               poster="/logo_branco.png"
             >
+              <source src="/videos/bloco_praieira.mov" type="video/quicktime" />
               <source src="/videos/bloco_praieira.mov" type="video/mp4" />
               Seu navegador não suporta o elemento de vídeo.
             </video>
