@@ -33,7 +33,7 @@ export default function Donations() {
           
           <p className="text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
             Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua
-            e a representatividade negra no ABC Paulista. Suas doações ajudam na
+            e a diversidade no ABC Paulista. Suas doações ajudam na
             manutenção de instrumentos e custear apresentações.
           </p>
 

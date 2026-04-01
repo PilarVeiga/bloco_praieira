@@ -40,7 +40,7 @@ O Bloco Praieira – Bloco do Amor propõe uma celebração da música brasileir
 
 Também traz artistas atuais no repertório como **Luedji Luna** e **Cordel do Fogo Encantado**. A apresentação valoriza a ancestralidade presente nos ritmos populares brasileiros, como **Axé**, **Ijexá**, **Samba** e **Maracatu**. 
 
-Tocamos nossa herança cultural com arte, memória e identidade. O projeto fortalece a **representatividade negra** na cena musical contemporânea, contando também com seus integrantes negros e pardos, promovendo diversidade, inclusão e valorização das tradições culturais.
+Tocamos nossa herança cultural com arte, memória e identidade. O projeto fortalece a **diversidade cultural** na cena musical contemporânea, promovendo inclusão e valorização das tradições culturais.
 
 **Classificação**: Livre
 
@@ -396,8 +396,8 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - Todos são bem-vindos para participar
 - Diversidade de integrantes
 - Acessibilidade cultural
-- **Representatividade negra** na cena musical contemporânea
-- Integrantes negros e pardos promovendo inclusão racial
+- **Diversidade** na cena musical contemporânea
+- Diversidade cultural e inclusão
 
 #### 3. Alegria
 - Levar felicidade através da música
@@ -653,7 +653,7 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - **Sobre**: "Consolidado como projeto de incentivo à cultura popular, levamos música, ancestralidade e alegria para carnaval, festas juninas e eventos. Uma jornada sonora que une pessoas de todas as origens"
 - **História**: "Do sonho de compartilhar música à casa n'A Praieira - um espaço cultural que homenageia Chico Science. Nossa essência é proporcionar uma experiência acessível onde cada pessoa descobre o som e a história dos instrumentos"
 - **Projetos**: "Arraial do Bloco traz a energia dos ritmos nordestinos (baião, xote, arrasta-pé). Carnaval do Bloco (desde 2022) funde percussão, baixo, guitarra e vocais numa performance única"
-- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua, festas juninas e a representatividade negra no ABC Paulista"
+- **Doações**: "Apoie o Bloco Praieira e ajude a manter viva a cultura do carnaval de rua, festas juninas e a diversidade no ABC Paulista"
 - **Bloco do Amor**: "Tocamos nossa herança cultural com arte, memória e identidade, valorizando a ancestralidade presente nos ritmos populares brasileiros. Música como linguagem universal"
 
 ---
@@ -676,7 +676,7 @@ Promover a cultura do carnaval de rua e dos ritmos afro-brasileiros no ABC Pauli
 - [x] Símbolo: Caranguejo 🦀
 - [x] Proposta artística: Bloco do Amor
 - [x] Artistas de referência: Gilberto Gil, Luiz Gonzaga, Dona Ivone Lara, Luedji Luna, Cordel do Fogo Encantado
-- [x] Valores: Representatividade negra, diversidade, inclusão, acessibilidade musical
+- [x] Valores: Diversidade, inclusão, acessibilidade musical
 - [x] Classificação: Livre
 - [x] Bairro: Centro
 - [x] Logo oficial: logo_branco.png

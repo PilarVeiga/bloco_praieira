@@ -71,7 +71,7 @@ export default function About() {
             <div className="text-5xl mb-4">❤️</div>
             <h3 className="text-2xl font-bold text-neon-blue mb-4">Representatividade</h3>
             <p className="text-gray-300 leading-relaxed">
-              Fortalecemos a <span className="text-neon-pink font-bold">representatividade negra</span> na cena musical,
+              Fortalecemos a <span className="text-neon-pink font-bold">diversidade</span> na cena musical,
               promovendo diversidade, inclusão e valorização das tradições culturais. Uma família de{' '}
               <span className="text-white font-bold">22 integrantes</span> que forma novas plateias e 
               cria pontes entre ritmo e comunidade.
