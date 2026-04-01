@@ -116,8 +116,9 @@ export default function UpcomingShows() {
         {/* Eventos Passados - Carnaval 2026 */}
         <div className="mb-8">
           <button
+            type="button"
             onClick={() => setShowPastEvents(!showPastEvents)}
-            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-pink border-2 border-transparent transition-all"
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-pink border-2 border-transparent transition-colors cursor-pointer"
           >
             <div className="flex items-center gap-4">
               <span className="text-4xl">🎭</span>

@@ -50,7 +50,7 @@ export default function Members() {
   const [openSection, setOpenSection] = useState<string | null>('mestres');
 
   const toggleSection = (section: string) => {
-    setOpenSection(openSection === section ? null : section);
+    setOpenSection((prev) => prev === section ? null : section);
   };
 
   return (
@@ -65,8 +65,9 @@ export default function Members() {
         {/* Mestres e Fundadores */}
         <div className="mb-8">
           <button
+            type="button"
             onClick={() => toggleSection('mestres')}
-            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-pink border-2 border-transparent transition-all"
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-pink border-2 border-transparent transition-colors cursor-pointer"
           >
             <div className="flex items-center gap-4">
               <span className="text-4xl">🎯</span>
@@ -105,8 +106,9 @@ export default function Members() {
         {/* Harmonia */}
         <div className="mb-8">
           <button
+            type="button"
             onClick={() => toggleSection('harmonia')}
-            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-green border-2 border-transparent transition-all"
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-green border-2 border-transparent transition-colors cursor-pointer"
           >
             <div className="flex items-center gap-4">
               <span className="text-4xl">🎤</span>
@@ -138,8 +140,9 @@ export default function Members() {
         {/* Percussão */}
         <div className="mb-8">
           <button
+            type="button"
             onClick={() => toggleSection('percussao')}
-            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-blue border-2 border-transparent transition-all"
+            className="w-full glassmorphism p-6 rounded-xl flex justify-between items-center hover:border-neon-blue border-2 border-transparent transition-colors cursor-pointer"
           >
             <div className="flex items-center gap-4">
               <span className="text-4xl">🥁</span>
