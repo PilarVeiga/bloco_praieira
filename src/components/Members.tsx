@@ -39,7 +39,6 @@ const membros = {
       { nome: 'Yris', foto: 'Yris.jpg' },
     ],
     xequere: [
-      { nome: 'Flavinha', instrumento: 'Xequerê, Ganzá, Triângulo', foto: 'Flavinha.jpeg' },
       { nome: 'Monisi', instrumento: 'Agogô, Percussões Diversas', foto: 'Monisi.jpeg' },
       { nome: 'Yas', instrumento: 'Xequerê, Ganzá', foto: 'Yas.jpg' },
     ],
