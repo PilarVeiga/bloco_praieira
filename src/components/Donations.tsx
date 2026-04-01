@@ -10,22 +10,8 @@ export default function Donations() {
       await navigator.clipboard.writeText('blocopraieira@gmail.com');
       setCopied(true);
       setTimeout(() => setCopied(false), 3000);
-    } catch (err) {
-      // Fallback para navegadores antigos
-      const textArea = document.createElement('textarea');
-      textArea.value = 'blocopraieira@gmail.com';
-      textArea.style.position = 'fixed';
-      textArea.style.opacity = '0';
-      document.body.appendChild(textArea);
-      textArea.select();
-      try {
-        document.execCommand('copy');
-        setCopied(true);
-        setTimeout(() => setCopied(false), 3000);
-      } catch (e) {
-        console.error('Erro ao copiar:', e);
-      }
-      document.body.removeChild(textArea);
+    } catch {
+      alert('Não foi possível copiar automaticamente. A chave PIX é: blocopraieira@gmail.com');
     }
   };
 

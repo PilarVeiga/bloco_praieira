@@ -1,6 +1,11 @@
 'use client';
 
 export default function Events() {
+  const colorClasses: Record<string, { text: string; border: string }> = {
+    'neon-green': { text: 'text-neon-green', border: 'border-neon-green' },
+    'neon-pink': { text: 'text-neon-pink', border: 'border-neon-pink' },
+  };
+
   const projetos = [
     {
       icon: '🌾',
@@ -57,7 +62,7 @@ export default function Events() {
               className="glassmorphism p-8 rounded-2xl hover:scale-105 transition-transform duration-300"
             >
               <div className="text-6xl mb-4 text-center">{projeto.icon}</div>
-              <h3 className={`text-3xl font-bold text-${projeto.color} mb-4 text-center`}>
+              <h3 className={`text-3xl font-bold ${colorClasses[projeto.color].text} mb-4 text-center`}>
                 {projeto.titulo}
               </h3>
               <p className="text-gray-300 mb-6 text-center leading-relaxed">
@@ -67,13 +72,13 @@ export default function Events() {
                 {projeto.ritmos.map((ritmo, i) => (
                   <span
                     key={i}
-                    className={`px-3 py-1 glassmorphism rounded-full border border-${projeto.color} text-sm font-semibold text-white`}
+                    className={`px-3 py-1 glassmorphism rounded-full border ${colorClasses[projeto.color].border} text-sm font-semibold text-white`}
                   >
                     {ritmo}
                   </span>
                 ))}
               </div>
-              <div className={`text-center px-4 py-2 glassmorphism rounded-full border-2 border-${projeto.color}`}>
+              <div className={`text-center px-4 py-2 glassmorphism rounded-full border-2 ${colorClasses[projeto.color].border}`}>
                 <span className="text-sm font-bold text-white">{projeto.periodo}</span>
               </div>
             </div>

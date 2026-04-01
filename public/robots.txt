@@ -8,4 +8,4 @@ Disallow: /_next/static/
 Disallow: /.vercel/
 
 # Sitemap
-Sitemap: https://blocopraieira-pugxf7i0n-pilarleminskis-projects.vercel.app/sitemap.xml
+Sitemap: https://blocopraieira.com.br/sitemap.xml
